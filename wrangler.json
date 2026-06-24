@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "forrest-feedback",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "7222d2d7-8075-48f3-aa1a-309f6168d58e",
+			"database_name": "d1-forrest-feedback-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
